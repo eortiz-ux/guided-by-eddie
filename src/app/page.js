@@ -1,6 +1,7 @@
 "use client";
-import React, { useState, useEffect, useRef } from 'react';
-import { Instagram, Music, Calendar, Facebook, ArrowUp, BookOpen, Home } from 'lucide-react';
+import React, { useState, useEffect, useRef } from "react";
+import { Instagram, Music, Calendar, Facebook, ArrowUp, BookOpen, Home } from "lucide-react";
+
 
 export default function GuidedByEddie() {
   const [scrolled, setScrolled] = useState(false);
