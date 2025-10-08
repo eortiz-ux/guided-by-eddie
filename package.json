@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
-    "export": "next export"
+    "build": "next build"
   },
   "dependencies": {
     "next": "15.5.4",
