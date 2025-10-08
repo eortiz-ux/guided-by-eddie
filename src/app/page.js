@@ -499,3 +499,12 @@ export default function GuidedByEddie() {
     </div>
   );
 }
+// pages/404.js
+export default function Custom404() {
+  return (
+    <main style={{ textAlign: 'center', padding: '4rem' }}>
+      <h1>404 — Page Not Found</h1>
+      <p>Looks like you got lost in the Ripple.</p>
+    </main>
+  );
+}
