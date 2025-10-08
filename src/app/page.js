@@ -23,12 +23,12 @@ export default function GuidedByEddie() {
   };
 
   const manifestoQuotes = [
-    { text: "Proximity beats theory. Always.", author: "Eddie Ortiz" },
-    { text: "Love is logistics. Feed the people.", author: "Eddie Ortiz" },
+  { text: "The wound is the place where the light enters you.", author: "Rumi" },
+    { text: "Love is logistics.", author: "Eddie Ortiz" },
     { text: "I don't sell houses. I restore trust.", author: "Eddie Ortiz" },
     { text: "He has the most who is most content with the least.", author: "Diogenes" },
     { text: "Do not be overcome by evil, but overcome evil with good.", author: "Romans 12:21" },
-    { text: "The wound is the place where the light enters you.", author: "Rumi" },
+     { text: "Proximity beats theory. Always.", author: "Eddie Ortiz" },
     { text: "When character is lost, all is lost.", author: "Chinese Proverb" },
     { text: "The Tao that can be spoken is not the eternal Tao.", author: "Tao Te Ching" }
   ];
